@@ -18,6 +18,15 @@ ROUTES
 | DELETE    | /places/:id/rant/:rantId |                   |
 | GET       | *                        |                   |
 
+PLACES :alien:
+
+| Method    | Path    |
+|-----------|---------|
+| NAME      | string  |
+| CITY      | string  |
+| STATE     | string  |
+| CUISINES  | string  |
+| PIC       | string  |
 
 
 

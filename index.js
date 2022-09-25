@@ -13,8 +13,6 @@ app.use(express.urlencoded({ extended: true }))
 // Controllers & Routes
 app.use('/places', require('./controllers/places'))
 
-
-
 app.get('/', (req, res) => {
     res.render('home')
 })

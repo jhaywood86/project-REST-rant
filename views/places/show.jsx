@@ -37,7 +37,6 @@ function show (data) {
                                     Delete
                                 </button>
                                 <br/>
-                                
                                 <h2>
                                     <font color="#FE8C8C">Comments</font>
                                 </h2>

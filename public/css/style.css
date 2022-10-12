@@ -3,19 +3,24 @@ h1 {
   color: cornflowerblue;
 }
 
-.flex-container{
-  display: inline-flex;
+h2 {
+  color: rgb(234, 124, 124);
   text-align: center;
-  margin: 2%;
-  gap: 25px;
+  margin: auto;
+  justify-content: center;
 }
+
+
 
 img {
-  width: 300px;
-  height: 300px;
+
+  padding: 7px;
+  border-radius: 20px;
+  width: 400px;
+  height: 400px;
 }
 
-  nav {
+nav {
     background-color: cornflowerblue;
     padding: 10px;
 }
@@ -43,6 +48,9 @@ nav a:hover {
 .row{
   text-align: center;
   margin: auto;
+  justify-content: center;
+
+  
 }
 
 .btn-primary{
@@ -55,5 +63,8 @@ nav a:hover {
 }
 
 footer {
-  text-align: center
+  text-align: center;
+  justify-content: center;
+
 }
+
